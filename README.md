@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kkkarumi
+- 👀 I’m interested in infomation security
+- 🌱 I’m currently learning Python, higher mathematics and informatics
+- 📫 How to reach me: kurashinovastemir7@gmail.com
